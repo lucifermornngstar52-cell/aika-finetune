@@ -1,0 +1,6 @@
+transformers==4.46.3
+peft==0.13.2
+bitsandbytes==0.44.1
+accelerate==1.1.1
+pyarrow==18.0.0
+sentencepiece==0.2.0
